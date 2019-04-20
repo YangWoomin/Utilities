@@ -1,2 +1,1 @@
-# YP
-Yang Project
+# Utilities
